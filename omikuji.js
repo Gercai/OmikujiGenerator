@@ -1,4 +1,4 @@
-let omikuji = [
+const omikuji = [
     {
         luck: "very good",
         text: "You have great luck this year, your love will come finding you"
